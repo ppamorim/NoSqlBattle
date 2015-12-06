@@ -2,6 +2,7 @@
 ------------
 
 This test will test the performance of main NoSQL libraries for Android. Under construction, of course.
+Based on the test of LoganSquare.
 
 Contributors
 ------------

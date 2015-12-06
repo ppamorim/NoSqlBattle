@@ -2,7 +2,9 @@ apply plugin: 'com.android.application'
 apply plugin: 'checkstyle'
 
 dependencies {
+  compile 'com.jakewharton:butterknife:7.0.1'
   compile 'com.android.support:appcompat-v7:23.1.0'
+
   compile 'io.paperdb:paperdb:1.1'
   compile 'io.realm:realm-android:0.86.0'
   compile 'com.snappydb:snappydb-lib:0.5.2'
@@ -16,7 +18,7 @@ android {
 
   defaultConfig {
     applicationId "com.nosqlbattle"
-    minSdkVersion 8
+    minSdkVersion 10
     targetSdkVersion 23
     versionCode 1
     versionName "1.0"
