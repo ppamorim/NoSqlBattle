@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">NoSqlBattle</string>
+  <string name="value_prop">This app will test the performance of Realm and Paper on your device. Just hit the "Add Benchmark", after, "Query Benchmark" button to see how our library stacks up against the library you\'re probably using now.</string>
+  <string name="add_benchmark">Add Benchmark</string>
+  <string name="query_benchmark">Query Benchmark</string>
+</resources>
